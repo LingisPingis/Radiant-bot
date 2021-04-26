@@ -1,0 +1,37 @@
+{
+    "Most of these are moved to a db, however some are still being used.": "rename this file to config.json",
+
+    "Giveaway stuff:": "(leave this empty or remove this line)",
+    "hostedBy": true,
+    "everyoneMention": false,
+
+    "For music": "(leave this empty or remove this line)",
+    "filters": [
+        "8D",
+        "gate",
+        "haas",
+        "phaser",
+        "treble",
+        "tremolo",
+        "vibrato",
+        "reverse",
+        "karaoke",
+        "flanger",
+        "mcompand",
+        "pulsator",
+        "subboost",
+        "bassboost",
+        "vaporwave",
+        "nightcore",
+        "normalizer",
+        "surrounding"
+    ],
+    "DONT EDIT THE FILTERS!": "(leave this empty or remove this line)",
+
+    "serverID": "",
+    "modlogs": "",
+    "logs": "",
+    "modMail": "",
+
+    "most stuff here is moved to a db using the settings command, alot is also removed from here that is in the main bot.": "(leave this empty or remove this line)"
+}

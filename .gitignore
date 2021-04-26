@@ -1,0 +1,20 @@
+# node modules
+node_modules
+
+# bot specific stuff
+assets/token.json
+assets/config.json
+giveaways.json
+
+# database
+json.sqlite
+
+# radiant staff application stuff
+answers.json
+staff_app_responses.js
+credentials.json
+# ^^ used for google sheets info
+
+# being worked on
+dashboard
+commands/fun/connect4.js
